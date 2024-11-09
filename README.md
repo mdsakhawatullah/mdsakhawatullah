@@ -4,17 +4,12 @@
 <h1 align="center">Hi 👋, I'm Md.Sakhawat Ullah</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" /> </p>
 
-- 🔭 I’m currently working on **M E R N stack**
+- 🔭 I’m currently working on **ASP.NET Core**
 
-- 🌱 I’m currently learning **Backend developement and python**
+- 🌱 I’m currently learning ** ASP.NET CORE | Web API | AWS**
 
-- 👨‍💻 All of my projects are available at [https://sakhawatportfolio.web.app](https://sakhawatportfolio.web.app)
-
-- 💬 Ask me about **react or any fronend framework**
-
-- 📫 How to reach me **sakhawatkhan477@gmail.com**
+- 📫 How to reach me **mdsakhawatullah.cuet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
