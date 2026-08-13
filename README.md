@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsakhawatullah&label=Profile%20Views&color=0e75b6&style=flat" alt="mdsakhawatullah" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amdsakhawatullah&style=flat" alt="commits"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmdsakhawatullah&style=flat" alt="followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmdsakhawatullah&style=flat" alt="public repos"/>
 </p>
 
 - 🔭 I'm currently working on an **e-commerce platform** at **Wafi Solutions**, using **ASP.NET Core APIs & Angular 20**
@@ -34,7 +37,6 @@
 </a>
 </p>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amdsakhawatullah&style=flat" alt="commits"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
