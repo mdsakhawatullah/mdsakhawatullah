@@ -34,6 +34,8 @@
 </a>
 </p>
 
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Amdsakhawatullah&style=flat" alt="commits"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
