@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Md. Sakhawat Ullah</h1>
+<h3 align="center">Junior Software Engineer | Full-Stack Developer (ASP.NET Core & Angular)</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsakhawatullah&label=Profile%20Views&color=0e75b6&style=flat" alt="mdsakhawatullah" />
+</p>
+
+- 🔭 I'm currently working on an **e-commerce platform** at **Wafi Solutions**, using **ASP.NET Core APIs & Angular 20**
+
+- 🌱 I'm currently learning **ASP.NET Core | Web API | Azure DevOps | Docker**
+
+- 💼 Previously interned at **Deep Mind Labs Limited**, working on a **Microsoft Dynamics 365 CRM** solution
+
+- 🎓 B.Sc. in Electronics & Telecommunication Engineering, **CUET** (2024)
+
+- 📫 How to reach me: **mdsakhawatullah.cuet@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-sakhawat-ullah-91b45b199" target="_blank" rel="noreferrer">
